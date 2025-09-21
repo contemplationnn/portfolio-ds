@@ -11,7 +11,9 @@
    git clone https://github.com/ТВОЙ_НИК/python-calculator.git
    
 2. Перейдите в папку проекта:
-   cd python-calculator
-   
+   ```bash
+   cd python-calculator```
+
 4. Запустите программу:
-   python calculator.py
+   ```bash
+   python calculator.py```
