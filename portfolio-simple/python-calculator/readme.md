@@ -12,8 +12,8 @@
    
 2. Перейдите в папку проекта:
    ```bash
-   cd python-calculator```
+   cd python-calculator
 
 4. Запустите программу:
    ```bash
-   python calculator.py```
+   python calculator.py
